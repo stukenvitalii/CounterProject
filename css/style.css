@@ -25,7 +25,7 @@ body {
 }
 
 .container h4{
-    margin-bottom: 10px;
+    margin: 10px;
 }
 
 .image {
@@ -46,7 +46,10 @@ body {
 
 .countdown-item {
     background-color: rgb(244, 174, 209);
-    padding: 6px;
+    margin: 10px;
+    padding: 8px;
+    border: 2px solid #222;
+    border-radius: 5px;
     min-height: 65px;
 }
 
